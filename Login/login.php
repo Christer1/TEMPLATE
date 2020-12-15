@@ -55,11 +55,13 @@ Member Login
 </span>
 </div>
 
-<!-- <select class="wrap-input100 validate-input" data-validate="Password is required">
+<!-- <select>
+<div class="wrap-input100 validate-input" id="myid" data-validate="Password is required">
 <option class="input100"  value="">Quick links</option>
 <option class="input100" value="bitcoin">Sell Bitcoin</option>
 <option class="input100" value="profile">Update Profile</option>
 <option class="input100" value="history">History</option>
+</div>
 </select> -->
 
 <div class="container-login100-form-btn">
