@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
 <title>Register - Naira4Coin</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">  
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keyword" content="Sell bitcoin and get paid instantly">
 
-<link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+<link rel="icon" type="image/png" href="images/icons/logo.ico" />
 
 <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 
@@ -19,18 +20,14 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="css/util.css">
 <link rel="stylesheet" type="text/css" href="css/main.css">
-	<style>
-		body {
-			font-family: 'Courier New', Courier, monospace;
-		}
-	</style>
+
 </head>
 <body>
 <div class="limiter">
 <div class="container-login100">
 <div class="wrap-login100">
-<div class="login100-pic js-tilt" data-tilt>
-<img src="images/img-01.webp" alt="IMG">
+<div class="login100-pic js-tilt" style="margin-top: 30%;" data-tilt>
+<img src="images/logo.png" alt="LOGO">
 </div>
 <form class="login100-form validate-form" autocomplete="off">
 <span class="login100-form-title">
@@ -99,6 +96,7 @@ Registration Form
 <i class="fa fa-lock" aria-hidden="true"></i>
 </span>
 </div>
+<p>By clicking Register button below, you agree to our Terms of Service, Privacy Policy and AML Policy</p>&nbsp;
 <div class="container-login100-form-btn">
 <button class="login100-form-btn">Register</button>
 </div>

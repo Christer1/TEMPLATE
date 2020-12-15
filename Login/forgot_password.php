@@ -2,10 +2,11 @@
 <html lang="en">
 <head>
 <title>Recover Password - Naira4coin </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">  
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keyword" content="Sell bitcoin and get paid instantly">
 
-<link rel="icon" type="image/png" href="images/icons/favicon.ico" />
+<link rel="icon" type="image/png" href="images/icons/logo.ico" />
 
 <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
 
@@ -25,8 +26,8 @@
 <div class="limiter">
 <div class="container-login100">
 <div class="wrap-login100">
-<div class="login100-pic js-tilt" data-tilt>
-<img src="images/img-01.webp" alt="IMG">
+<div class="login100-pic js-tilt" style="margin-top: 7%;" data-tilt>
+<img src="images/logo.png" alt="IMG">
 </div>
 
 <form class="login100-form validate-form" autocomplete="off">
